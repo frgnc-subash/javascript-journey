@@ -1,1 +1,1 @@
-I'm Pushing my javascript codes daily as I learn.
+I'm Pushing my javascript codes daily as I learn. This is my kourney from using JavaScript to React a JS library.
