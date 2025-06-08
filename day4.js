@@ -83,4 +83,4 @@ const getProductNumber = () => {
     return productCount;
   }
 };
-console.log(getProductNumber());
+console.log(getProductNumber())
