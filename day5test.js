@@ -44,7 +44,6 @@ const shadiwebAPIresp = {
 
 const getMyPerfectMatch = () => {
     if (shadiwebAPIresp.status === 200) {
-        // let perfectMatch = [];
         shadiwebAPIresp.data.map((candidate) => {
             const { gender, age, maritalStatus, location } = candidate;
             const myRequirements =

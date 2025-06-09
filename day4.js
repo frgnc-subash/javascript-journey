@@ -75,7 +75,8 @@ const getProductNumber = () => {
       customer.bought.forEach((item) => {
         if (productCount[item.id]) {
           productCount[item.id] += 1;
-        } else {
+        }
+        else {
           productCount[item.id] = 1;
         }
       });
